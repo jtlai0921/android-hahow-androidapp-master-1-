@@ -1,0 +1,1 @@
+include ':app', ':app_bmi', ':homework_currency', ':app_atm', ':app_bmik'
